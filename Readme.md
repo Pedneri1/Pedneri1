@@ -12,6 +12,6 @@ You can also find me here:
 - Working as full stack developer at [SkiloPay](https://www.skilopay.com.br/) and handyman (salesperson, CEO, fullstack) at [Rekko](https://www.rekko.com.br).
 - I speak portuguese and english. Currently learning spanish.
 - Working daily with Elixir, ReactJS, Node and Python.
-- I love when assigned to cluod/infraestructure/devops tasks.
+- I love when assigned to cloud/infraestructure/devops tasks.
 - 📫 Reach me: pedneri1@gmail.com
 - Currently studying: **Data Science** and **Open Source**
