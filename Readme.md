@@ -9,9 +9,9 @@ You can also find me here:
 
 #### I'm a computer engineer based on Bahia - Brazil.
 
-- Working as full stack developer at [SkiloPay](https://www.skilopay.com.br/) and handyman (salesperson, CEO, fullstack) at [Rekko](https://www.rekko.com.br).
+- Working as back end software engineer at [SkiloPay](https://www.skilopay.com.br/)
 - I speak portuguese and english. Currently learning spanish.
-- Working daily with Elixir, ReactJS, Node and Python.
+- Working daily with Elixir, AWS, DevOps and Python.
 - I love when assigned to cloud/infraestructure/devops tasks.
 - 📫 Reach me: pedneri1@gmail.com
-- Currently studying: **Data Science** and **Open Source**
+- Currently studying: **AWS** and **Open Source**
