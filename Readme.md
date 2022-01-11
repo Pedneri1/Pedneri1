@@ -9,7 +9,7 @@ You can also find me here:
 
 #### I'm a computer engineer based on Bahia - Brazil.
 
-- Working as back end software engineer at [SkiloPay](https://www.skilopay.com.br/)
+- Working as back end software engineer at [Sinch](https://www.sinch.com/)
 - I speak portuguese and english. Currently learning spanish.
 - Working daily with Elixir, AWS, DevOps and Python.
 - I love when assigned to cloud/infraestructure/devops tasks.
