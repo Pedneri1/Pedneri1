@@ -9,9 +9,8 @@ You can also find me here:
 
 #### I'm a computer engineer based on Bahia - Brazil.
 
-- Working as back end software engineer at [Sinch](https://www.sinch.com/)
+- Working as Tech Leader at [Sinch](https://www.sinch.com/)
 - I speak portuguese and english. Currently learning spanish.
-- Working daily with Elixir, AWS, DevOps and Python.
-- I love when assigned to cloud/infraestructure/devops tasks.
+- Sometimes I try to summarize my thoughts in analogies on [my LinkedIn](https://www.linkedin.com/in/pedneri1/)
 - 📫 Reach me: pedneri1@gmail.com
-- Currently studying: **AWS** and **Open Source**
+- Currently working to make tech teams overdeliver without sacrificing mental health 😂
