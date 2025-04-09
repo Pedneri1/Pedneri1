@@ -6,7 +6,7 @@ You can also find me here:
 
 ---
 
-#### I'm a computer engineer based on Bahia - Brazil.
+#### I'm a Computer Engineer based in Brazil.
 
 - Working as Engineering Tech Manager at [Nubank](https://www.nubank.com.br/)
 - 📫 Reach me: pedneri1@gmail.com
